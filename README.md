@@ -4,19 +4,15 @@
 
 Existem momentos em que você quer passar um bilhetinho para um amigo ou amiga, ou ainda um "zap", mas não quer que qualquer um intercepte as suas mensagens. Para não usar um app auxiliar ou uma camada de criptografia extra, você usa um código simples, que altera apenas as vogais do seu texto, mas já o torna bastante ilegível. Você utiliza a tabela a seguir:
 
-|                |ASCII                          |
+
 |----------------|-------------------------------|
 |a               |ais                            |
-|Quotes          |`"Isn't this fun?"`            |
-|Dashes          |`-- is en-dash, --- is em-dash`|
+|e               |enter                          |
+|i               |inis                           |
+|o               |omber                          |
+|u               |ufter                          |
 
 
-
-| a | ais     |
-| e | enter   |
-| i | inis    |
-| o | omber   |
-| u | ufter   |
 
 ​Ao trocar essas letras, acontece isso com o seu texto.
 
