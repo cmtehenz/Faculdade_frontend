@@ -4,7 +4,7 @@
 
 Existem momentos em que você quer passar um bilhetinho para um amigo ou amiga, ou ainda um "zap", mas não quer que qualquer um intercepte as suas mensagens. Para não usar um app auxiliar ou uma camada de criptografia extra, você usa um código simples, que altera apenas as vogais do seu texto, mas já o torna bastante ilegível. Você utiliza a tabela a seguir:
 
-
+|                |Ofuscado                       |
 |----------------|-------------------------------|
 |a               |ais                            |
 |e               |enter                          |
