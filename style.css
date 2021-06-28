@@ -14,6 +14,8 @@
   --gray-850: #1f2729;
   --gray-900: #111015;
 
+  --ctextarea: rgba(40, 44, 52, 0.83);
+
   --purple-500: #8257e5;
   --yellow-500: #eba417;
 }
@@ -62,8 +64,23 @@ textarea {
   height: 8rem;
   resize: none;
   margin-bottom: 2rem;
+  background-color: var(--ctextarea);
+  color: var(--white);
+  border: none;
+
 }
 
+button {
+  border-radius: 0.5rem;
+  border: none;
+  background-color: #ff9000;
+  color: var(--gray-850);
+  font-size: 1.5rem;
+}
+
+button:hover{
+  background-color: #704000;
+}
 .content {
   max-width: 1120px;
   margin: 2rem auto;
